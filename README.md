@@ -94,11 +94,22 @@ php artisan key:generate
 php artisan migrate --seed
 php artisan serve
 
+✨ Kontribusi & Pengembangan
 Proyek ini bisa dikembangkan lebih lanjut:
 
-1.Modul laporan lengkap
-2.Integrasi printer thermal
-3.Support multi-gudang
-4.Aplikasi mobile (Ionic/Flutter)
+-Modul laporan lengkap
+-Integrasi printer thermal
+-Support multi-gudang
+-Aplikasi mobile (Ionic/Flutter)
 
-TERIMA KASIH!! 
+📄 Lisensi
+Proyek ini open-source untuk kebutuhan pembelajaran dan pengembangan pribadi. Jangan dijual ulang tanpa izin 🙏
+
+
+---
+
+Kalau kamu setuju, aku bisa bantu buatin file ini langsung dan kamu tinggal `README.md` → copy-paste ke folder project.
+
+Perlu juga dibuatin `ERD` atau diagram alur sistem kasirnya? Bisa aku bantu sekalian.
+
+
